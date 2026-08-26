@@ -90,7 +90,7 @@ DevPilot/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/devpilot.git
+   git clone https://github.com/Kavin-Palanisamy/devpilot.git
    cd devpilot
    ```
 
