@@ -1,0 +1,7 @@
+{
+  "name": "DevPilot",
+  "description": "AI-Powered Developer Productivity Assistant with GitHub integration, code analysis, debugging, task manager, and focus tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

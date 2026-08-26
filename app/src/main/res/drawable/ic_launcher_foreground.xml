@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Code bracket left -->
+    <path
+        android:pathData="M38,36 L26,54 L38,72"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <!-- Code bracket right -->
+    <path
+        android:pathData="M70,36 L82,54 L70,72"
+        android:strokeColor="#A855F7"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <!-- Pilot Rocket / Spark in Center -->
+    <path
+        android:pathData="M54,28 C54,28 62,38 62,52 L58,58 L54,55 L50,58 L46,52 C46,38 54,28 54,28 Z"
+        android:fillColor="#FFFFFF" />
+    <path
+        android:pathData="M54,58 L54,74 M51,68 L57,68"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+    <!-- AI Sparkle Core -->
+    <path
+        android:pathData="M54,40 L56,44 L60,46 L56,48 L54,52 L52,48 L48,46 L52,44 Z"
+        android:fillColor="#A855F7" />
+</vector>
+
