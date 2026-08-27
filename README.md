@@ -33,7 +33,7 @@ DevPilot is a modern Android application built with **Jetpack Compose** and powe
 ### 4. 🎨 Developer-Centric Design & Theming
 - Fully responsive **Material 3** interface with seamless **Dark Mode** and **Light Mode** support.
 - Code blocks with syntax styling and one-touch clipboard copying.
-- High-contrast developer accent colors: Electric Cyan, Indigo Violet, Emerald Success, Amber Warning, and Crimson Danger.
+- High-contrast developer accent colors: Electric Cyan, Indigo Violet, Emerald Success, Amber Warning, and Crimson Danger
 
 ---
 
