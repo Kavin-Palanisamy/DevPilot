@@ -20,7 +20,7 @@ DevPilot is a modern Android application built with **Jetpack Compose** and powe
 
 ### 2. ⚡ Command Palette (`⌘K` / `Ctrl+K`)
 - Instant global search across repositories, backlog tasks, and workflow stages.
-- Keyboard-friendly navigation directly accessible from the top bar.
+- Keyboard-friendly navigation directly accessible from the top bar
 
 ---
 
