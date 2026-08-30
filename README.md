@@ -14,7 +14,7 @@ DevPilot is a modern Android application built with **Jetpack Compose** and powe
 - **Build**: Track task progress, update subtask checklists, and manage active execution with interactive completion statuses and focus timers.
 - **Debug**: Paste runtime exceptions, error logs, or stack traces for instantaneous AI root-cause diagnosis, exact file pinpointing, step-by-step resolution plans, and corrected code snippets. Convert fixes directly into trackable tasks.
 - **Review**: Execute AI-assisted pull request quality and security gates to detect potential vulnerabilities, performance bottlenecks, and test coverage gaps before merging.
-- **Improve**: Monitor repository health scores and resolve prioritized technical debt, maintainability risks, and architectural recommendations.
+- **Improve**: Monitor repository health scores and resolve prioritized technical debt, maintainability risks, and architectural recommendations
 
 ---
 
